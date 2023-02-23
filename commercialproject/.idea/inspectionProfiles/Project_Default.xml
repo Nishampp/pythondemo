@@ -1,0 +1,47 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyPep8Inspection" enabled="true" level="WEAK WARNING" enabled_by_default="true">
+      <option name="ignoredErrors">
+        <list>
+          <option value="W292" />
+          <option value="E302" />
+          <option value="E231" />
+          <option value="E303" />
+          <option value="E265" />
+          <option value="E114" />
+        </list>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyShadowingBuiltinsInspection" enabled="true" level="WEAK WARNING" enabled_by_default="true">
+      <option name="ignoredNames">
+        <list>
+          <option value="id" />
+        </list>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredIdentifiers">
+        <list>
+          <option value="django.conf.settings" />
+          <option value="newapp.models.def__str__" />
+          <option value="django.contrib.auth.models.User.objects_user" />
+          <option value="django.contrib.admins" />
+          <option value="movieapp.models.Movie.objects" />
+          <option value="filmapp.models.def__str__" />
+          <option value="movieapp.views.year" />
+          <option value="movieapp.views.desc" />
+          <option value="todoapp.urls.views" />
+          <option value="todoapp.models.Task.objects" />
+          <option value="ecommerceproject.ecommerceproject.urls.settings" />
+          <option value="ecommerceproject.ecommerceproject.urls.static" />
+          <option value="ecommerceproject.settings" />
+          <option value="todoapp.views.update" />
+          <option value="todoapp.views.TaskDeleteview" />
+          <option value="todoapp.views.TaskDeleteview.as_view" />
+          <option value="estoreproject.estoreproject.urls.settings" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
