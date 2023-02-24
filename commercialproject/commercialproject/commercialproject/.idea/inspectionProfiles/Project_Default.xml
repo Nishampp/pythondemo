@@ -40,6 +40,8 @@
           <option value="todoapp.views.TaskDeleteview" />
           <option value="todoapp.views.TaskDeleteview.as_view" />
           <option value="estoreproject.estoreproject.urls.settings" />
+          <option value="commercialproject.views" />
+          <option value="amazon.models.Product.objects" />
         </list>
       </option>
     </inspection_tool>
